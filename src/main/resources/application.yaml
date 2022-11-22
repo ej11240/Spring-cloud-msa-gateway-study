@@ -2,7 +2,7 @@ server:
   port: 8761
 eureka:
   instance:
-    appname: injuk-server
+    appname: spring-cloud-gateway
   client:
     fetch-registry: false
     register-with-eureka: true
